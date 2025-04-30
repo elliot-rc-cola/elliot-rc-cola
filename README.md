@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @elliot-rc-cola
-- 👀 I’m interested in back end development and machine learning
-- 🌱 I’m currently learning python and refreshing my front end skills
+- 👀 I’m interested in data science and machine learning
+- 🌱 I’m currently learning all things data analysis and visualisation
 - 💞️ I’m looking to collaborate on any Python projects
-- 📫 How to reach me find me everywhere at elliot_rc_cola
+- 📫 How to reach me everywhere at elliot_rc_cola
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I like eggs
 
